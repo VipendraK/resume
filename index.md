@@ -11,7 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Fraud Detection project
+This is used to detect Fraud using ML
 ## Header 2
 ### Header 3
 
